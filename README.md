@@ -34,5 +34,5 @@ risk in the long-term. The investors are benefited by investing in selected scri
 of if the investment decisions are informed ones. Models like Sharpe‘s & Markowitz's would
 play a great role in facilitating such investor information systems.
 
-#“Greater Portfolio Return with less Risk is always is an attractive combination” for the
+“Greater Portfolio Return with less Risk is always is an attractive combination” for the
 Investors.
