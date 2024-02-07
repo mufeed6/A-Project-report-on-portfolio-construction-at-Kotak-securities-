@@ -13,6 +13,7 @@ portfolio as per Sharpe‘s method.
  Finally, the noticing thing is that a portfolio with Lupin is well performed.
 
 #Suggestion:
+
 As per the Study, it is suggested that based on the year of analysis, If any investor
 have invested their money in a combination of TCS to the extent of 96% of their
 money & other 6% of the money in Lupin limited, he/she would have earned
